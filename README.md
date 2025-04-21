@@ -1,3 +1,3 @@
 # LearnWebDevlopment
 This is my first repository.
-Author- Aayush Basnet
+Author- Aayush Basnet (WEB DEVELOPMENT)
